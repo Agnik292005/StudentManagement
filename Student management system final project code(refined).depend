@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1711375239 source:c:\users\user\desktop\c programming\student management system final project code(refined)\main.c
+	<math.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
